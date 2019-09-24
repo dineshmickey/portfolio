@@ -1,4 +1,4 @@
-Strata by HTML5 UP
+Strata by HTML5 UP [![Netlify Status](https://api.netlify.com/api/v1/badges/fa581c36-88a7-45b3-9f2a-064983fce1ef/deploy-status)](https://app.netlify.com/sites/dineshepdv/deploys)
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
